@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TouchesController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerShipControl.cs" Line="46" Column="31" />
+      <File FileName="Assets/GameController.cs" Line="15" Column="5" />
+      <File FileName="Assets/MoveForward.cs" Line="14" Column="18" />
+      <File FileName="Assets/GameCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveForwardProjectile.cs" Line="7" Column="35" />
+      <File FileName="Assets/TouchesController.cs" Line="14" Column="30" />
+      <File FileName="Assets/VirtualJoystick.cs" Line="65" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Clases_2205_220_228u_3301tlimo_229 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
