@@ -23,10 +23,10 @@ GameObject:
   - component: {fileID: 135371297973349484}
   - component: {fileID: 23041487198409284}
   - component: {fileID: 54399462433664690}
-  - component: {fileID: 114290000558392762}
   - component: {fileID: 82445264798480980}
   - component: {fileID: 114954305764125904}
   - component: {fileID: 114167013511611304}
+  - component: {fileID: 114264725270587318}
   m_Layer: 0
   m_Name: Projectile
   m_TagString: Untagged
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   explosion: {fileID: 1867556144694494, guid: 93372ee400c2dcd409fb2b064bf62d10, type: 2}
---- !u!114 &114290000558392762
+--- !u!114 &114264725270587318
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -201,10 +201,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1805521273613380}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 421c8798c4dd8f247b6407ef31619271, type: 3}
+  m_Script: {fileID: 11500000, guid: 92f7cc3a9237a4e42bcd64592de07f38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 100
 --- !u!114 &114954305764125904
 MonoBehaviour:
   m_ObjectHideFlags: 1

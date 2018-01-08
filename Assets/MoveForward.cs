@@ -14,8 +14,4 @@ public class MoveForward : MonoBehaviour {
 	void Update () {
 	}
 
-    public void changeSpeed(float increment){
-        speed += increment;
-
-    }
 }

@@ -48,6 +48,7 @@ public class GameController : MonoBehaviour
         endPanel.SetActive(false);
         homeBtn.SetActive(true);
         joystick.SetActive(true);
+        MoveForward.speed = 30;
     }
 
     IEnumerator LaunchAsteroids()

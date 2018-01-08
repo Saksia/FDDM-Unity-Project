@@ -43,7 +43,10 @@ public class PlayerShipControl : MonoBehaviour {
     }
 
     private void Fire() {
-        if (Input.GetAxis("Fire1") > 0) {
+        
+        float a = Input.GetTouch(0).position.x;
+
+        if (a < Screen.width / 2) {
             Instantiate(projectile).transform.position = transform.position;
         }
     }
